@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import logo from '../img/hng9.png';
-import '../css/App.css';
+import React, { Component } from "react";
+import logo from "../img/hng9.png";
+import "../css/App.css";
 
 class App extends Component {
   render() {
@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">HNGi9 DevOps Stage2 Task</h1>
         </header>
         <p className="App-intro">
-          This task was submitted by <b>Mayowa</b>
+          This task was submitted by <b>albus</b>
         </p>
       </div>
     );
